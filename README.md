@@ -66,4 +66,4 @@ The development process started with a wireframe.
 
 ---
 
-<h1>Do good for others and good will come to you</h1>
+<h1>“Little things done with love are much better than big things without love.”</h1>
